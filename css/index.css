@@ -1,0 +1,49 @@
+/*Body*/
+* {
+    margin:0; 
+    padding:0;
+}
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+h1{
+    color: #0f8cf8;
+}
+p.title{
+    font-weight: 200;
+    font-size: 22px;
+}
+p.subtitle{
+    font-weight: 300;
+    font-size: 20px;
+}
+p{
+	font-weight: 500;
+    text-align: justify;
+}
+.banner{
+    width: 100%;
+    height: 100%;
+}
+.header{
+    justify-content: space-around;
+    display: flex;
+    background: #484848;
+    padding: 10px 0px 10px 0px;
+}
+img#logo{
+    width: 180px;
+    height: 50px;
+}
+.menu{
+    justify-content: space-around;
+    display: flex;
+    margin: 15px 0px 15px 0px;
+}
+.fas, .far{
+    margin: 0px 10px 0px 0px;
+}
+.txtheader{
+    color: #ffffff;
+    margin: 0px 0px 0px 20px;
+}
